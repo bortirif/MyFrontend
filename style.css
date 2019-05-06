@@ -1,0 +1,8 @@
+body {
+    font-family: Tahoma;
+    margin: 0;
+
+    height: 600px;
+    background: linear-gradient(to top left, powderblue, pink);
+
+}
